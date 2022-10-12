@@ -1,4 +1,4 @@
-#ifndef _CALC_H_
+ifndef _CALC_H_
 #define _CALC_H_
 int op_add(int a, int b);
 int op_sub(int a, int b);
@@ -12,7 +12,7 @@ int (*get_op_func(char *s))(int, int);
  *
  * @op: The operator
  * @f: The function associated
-**/
+ * /
 
 typedef struct op
 {
