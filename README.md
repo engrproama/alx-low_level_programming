@@ -40,4 +40,8 @@ _There are other Repo's created for different levels of programming._
 #
 *Project C: 0x0C-More_Malloc_free*
 #
-
+*Project D: 0x0D-Preprocessor*
+#
+*Project E: 0x0E-Structures_typedef*
+#
+*Project F: 0x0F-Functions_Pointers*
