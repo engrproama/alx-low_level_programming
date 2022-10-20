@@ -1,12 +1,12 @@
-# INTRODUCTION
+#INTRODUCTION
 #
--> This Read me file is for More Mallocs
+	-> This Read me file is for More Mallocs
 
--> All files were executed from the shell and sent to github
+	-> All files were executed from the shell and sent to github
 
--> All files were created by the owner of this account.
+	-> All files were created by the owner of this account.
 
-# FILE CREATED IN THIS PROJECT ARE
+#FILE CREATED IN THIS PROJECT ARE
 #
 	-> main.h == The Header Files
 
@@ -22,7 +22,7 @@
 
 	-> 101-mul.c
 
-# CONCLUSION
+#CONCLUSION
 #
 
 	-> Coding Bugs were NOT named after an actual bug.
