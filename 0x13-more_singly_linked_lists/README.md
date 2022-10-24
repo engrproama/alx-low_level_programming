@@ -12,9 +12,5 @@ Code blocks or Ubuntu Shell with compiler gcc installed.
 
 ## Contained Files
 
-This is a C file and could be executed on any C or  C++ enviroment like 
-
-`API_KEY`
-
-`ANOTHER_API_KEY`
-
+This is a C file and could be executed on any C or  C++ enviroment like
+Visual code, Code Blocks, NetBeans but must have GCC compiler installed.
