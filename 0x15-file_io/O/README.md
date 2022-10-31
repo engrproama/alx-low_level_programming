@@ -1,1 +1,3 @@
-# A read me File for task 15 I/O
+I/O (input/output), pronounced "eye-oh," describes any operation, program, or device that transfers data to or from a computer. Typical I/O devices are printers, hard disks, keyboards, and mouses.
+
+Alternatively referred to as I/O (pronounced as eye-o), input/output is any software or hardware device designed to send and receive data to and from a computer hardware component. For example, a NIC (network interface card) is an I/O device because it sends and receives information from other network devices and computers. However, a computer mouse is only an input device, because it can send data but cannot receive any data back. A computer monitor is an output device because it can display information (output) but cannot send data back to the computer. Assuming it's not a touch screen.
