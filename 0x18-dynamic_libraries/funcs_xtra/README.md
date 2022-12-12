@@ -1,0 +1,2 @@
+# FUNCTIONS
+- created some functions.
